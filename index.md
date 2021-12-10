@@ -19,6 +19,6 @@ My research interests are in urban ecology and landscape, urban forestry, urban 
 
 ## Focus on some works
 
-[More on the CO-HABITAT project](./cohabitat.md)
-[More on the UCB model](./ucb.md)
-[More on the UFES typology](./ufes.md)
+- [More on the CO-HABITAT project](./cohabitat.md)
+- [More on the UCB model](./ucb.md)
+- [More on the UFES typology](./ufes.md)
