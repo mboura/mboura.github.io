@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Marlène Boura]
 logo: /img/logo.png
+description: Academic website of Marlène Boura.
+show_downloads: true
