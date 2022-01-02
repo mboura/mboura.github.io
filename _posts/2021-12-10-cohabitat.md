@@ -16,5 +16,7 @@ The design exploration builds on a data dashboard that will be developed to cent
 The research results in a CO-HABITAT atlas that envisions future pathways for co-habitation in the Brussels Capital Region and the atlas also contributes to a much needed disciplinary renewal in which more-than-human perspectives and concepts are introduced in urban planning policies and designs. By including different experts, organisations, administrations and students the project aims to contribute to a larger societal discussion on the place of animals in our urban environment.
 
 ![UCLouvain](./img/uclouvain.png)
+
 ![KULeuven](./img/kuleuven.png)
+
 ![Innoviris](./img/innoviris.png)
