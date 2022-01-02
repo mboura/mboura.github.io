@@ -28,6 +28,16 @@
       {{ content }}
       </section>
       
+      <section>
+        <ul>
+          {% for post in site.posts %}
+            <li>
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+      
       <footer>
         <p><small>Theme inspired by <a href="https://github.com/orderedlist">orderedlist</a>'s
             <a href="https://github.com/orderedlist/minimal">Minimal</a>.
