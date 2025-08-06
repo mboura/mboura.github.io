@@ -1,8 +1,5 @@
 # Short CV
 
-I am a postdoctoral researcher at UCLouvain, currently working in the project CO-HABITAT: Towards animal-inclusive design strategies in the Brussels Capital Region. I hold a PhD in Geography from the university of Luxembourg. 
-
-My research interests are in urban ecology and landscape, urban forestry, urban biodiversity, ecosystem services and urban patterns. I also have a keen interest in modelling and data visualisation.
 
 **Education**
 
