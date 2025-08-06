@@ -1,5 +1,12 @@
 # Short CV
 
+I currently support public and private actors in biodiversity and ecological transition projects. My work includes:
+- Reducing bat and bird mortality near wind turbines through adaptive curtailment strategies and real-time detection technologies
+- Strengthening ecological networks and landscape connectivity using spatial modeling tools
+- Conducting environmental impact assessments (fauna, flora, habitats) and proposing mitigation strategies
+- Supporting data governance and developing semi-automated or interactive tools for internal and client projects
+
+My PhD research explored urban ecology, focusing on how the spatial integration of urban vegetation—urban forests—affects ecosystem services across European cities. As a postdoctoral researcher, I studied human–wildlife interactions in the Brussels Region, analysing the dynamics of urban fauna cohabiting with humans and the built environment.
 
 **Education**
 
